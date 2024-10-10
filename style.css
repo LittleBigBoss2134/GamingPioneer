@@ -88,3 +88,7 @@ button{
 #searchbtn{
     float: right;
 }
+.squaresearch{
+    width: 100px;
+    height: 100px;
+}
