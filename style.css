@@ -97,6 +97,7 @@ button{
 }
 .imgtextdiv{
     text-align: center;
+    display: inline;
 }
 .imgtextdiv:hover{
     size: 10%;
