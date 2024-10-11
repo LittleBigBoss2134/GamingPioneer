@@ -95,6 +95,7 @@ button{
 .imageforlinks{
     width: 250px;
     height: 250px;
+    float: left;
 }
 .imgtextdiv{
     text-align: center;
@@ -103,7 +104,7 @@ button{
     size: 10%;
 }
 .linktext{
-    font-size: 5px;
+    font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     border: none;
 }
