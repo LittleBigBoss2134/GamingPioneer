@@ -1,7 +1,6 @@
 body{
     background-color: #121d2e;
 }
-
 .paratext{
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
@@ -95,7 +94,6 @@ button{
 .imageforlinks{
     width: 250px;
     height: 250px;
-    float: left;
 }
 .imgtextdiv{
     text-align: center;
