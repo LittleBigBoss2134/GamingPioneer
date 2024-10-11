@@ -100,6 +100,8 @@ button{
     text-align: center;
     display: inline;
     flex: 1;
+    border: lightskyblue;
+    background: lightslategray;
 }
 .imgtextdiv:hover{
     size: 10%;
