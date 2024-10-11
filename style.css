@@ -43,6 +43,7 @@ a{
 }
 .links{
     text-align: center;
+    display: flex;
 }
 .sidebar{
     width: 25%;
@@ -98,6 +99,7 @@ button{
 .imgtextdiv{
     text-align: center;
     display: inline;
+    flex: 1;
 }
 .imgtextdiv:hover{
     size: 10%;
