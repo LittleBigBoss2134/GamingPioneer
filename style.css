@@ -123,3 +123,9 @@ button{
 .bluebg{
     background-color: darkturquoise
 }
+#searchfield{
+    text-align: center;
+}
+#searchconfirm{
+    text-align: center;
+}
