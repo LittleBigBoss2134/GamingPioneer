@@ -2,7 +2,7 @@ document.getElementById("searchForm").addEventListener("submit", function(event)
     event.preventDefault(); // Prevent the form from refreshing the page
 
     let query = document.getElementById("searchInput").value.toLowerCase();
-    let divs = document.querySelectorAll(".bluebg"); // Get all divs with the class "bluebg"
+    let divs = document.querySelectorAll(".imgtextdiv"); // Get all divs with the class "bluebg"
     let found = false; // Track if we find any match
 
     divs.forEach(div => {
