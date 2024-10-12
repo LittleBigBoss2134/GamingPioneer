@@ -23,7 +23,6 @@ p{
     border-width: 8px;
 }
 .subject{
-    width: 75%;
     color: #1a2a42;
 }
 .mainblogwriting{
@@ -115,4 +114,7 @@ button{
     font-family: Arial, Helvetica, sans-serif;
     border: none;
     width: 250px;
+}
+.afiliatelinks{
+    color: orange;
 }
