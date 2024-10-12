@@ -27,9 +27,12 @@ p{
     width: 70%;
     margin: auto;
 }
-.mainblogwriting{
-    background-color: black;
-}
+@media screen and (max-width: 1300px) {
+    .subject{
+    width: 100%;
+}}
+    
+
 
 h1{
     font-size: 60px;
