@@ -44,6 +44,9 @@ a{
 .links{
     text-align: center;
     display: flex;
+    justify-content: space-evenly;
+    border: darkturquoise solid;
+    background-color: darkturquoise;;
 }
 .sidebar{
     width: 25%;
