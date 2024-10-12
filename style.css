@@ -47,7 +47,7 @@ a{
     justify-content: space-evenly;
     flex-wrap: wrap;
     border: darkturquoise solid;
-    background-color: darkturquoise;;
+    background-color: darkturquoise;
 }
 .sidebar{
     width: 25%;
