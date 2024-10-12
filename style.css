@@ -24,6 +24,8 @@ p{
 }
 .subject{
     color: #1a2a42;
+    width: 70%;
+    margin: auto;
 }
 .mainblogwriting{
     background-color: black;
