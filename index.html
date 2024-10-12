@@ -11,13 +11,14 @@
 </head>
 
 <body>
+    <script src="searchscript.js"></script>
 
     <ul id="navbar">
         <li class="navbarbtn"><a class="navbartext" href="index">Home</a></li>
         <li class="navbarbtn"><a class="navbartext" href="aboutcontactdonate">About and Donate</a></li>
         <li> <form style="float: right;">
             <input type="text" placeholder="Search..." id="searchfield">
-            <button type="submit">Search</button id="searchconfirm">
+            <a href="searchresults"><button type="submit">Search</button id="searchconfirm"></a>
         </form></li>
     </ul>
 
@@ -28,6 +29,15 @@
     <br>
     <div class="bluebg">
     <div class="links">
+
+        <br>
+
+        <div class="search-bar">
+            <form id="searchForm">
+                <input type="text" id="searchInput" placeholder="Search..." autocomplete="off" />
+                <input type="submit" value="Search" />
+            </form>
+        </div>
     
         <a href="temugamingdecorations"><div class="imgtextdiv">
             <img src="temufamingdecorimg.jpeg" class="imageforlinks"></img>
