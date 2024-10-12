@@ -45,6 +45,7 @@ a{
     text-align: center;
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     border: darkturquoise solid;
     background-color: darkturquoise;;
 }
@@ -102,9 +103,8 @@ button{
 .imgtextdiv{
     text-align: center;
     display: inline;
-    flex: 1;
-    border: lightskyblue;
-    background: lightslategray;
+    border: darkturquoise solid;
+    background-color: darkturquoise;;
 }
 .imgtextdiv:hover{
     size: 10%;
